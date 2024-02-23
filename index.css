@@ -1,0 +1,21 @@
+body{
+    background-color: cornflowerblue;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+}
+
+img{
+    height: 200px;
+    width: 250px;
+    position: relative;
+    left: 200px;
+}
+p{
+    padding: 20px;
+}
+a{
+    margin-left: 50px;
+}
